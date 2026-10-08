@@ -448,6 +448,7 @@ flutter test
 ควรขึ้นว่า **All tests passed!**
 
 จากนั้นเปิด Android Emulator หรือ iOS Simulator ให้พร้อม (ตามที่ตั้งค่าไว้ตั้งแต่ใบงานที่ 1) แล้วรัน
+<img width="835" height="265" alt="image" src="https://github.com/user-attachments/assets/1f99837d-d579-4a6b-b355-6bbbec2340ba" />
 
 ```bash
 flutter run
@@ -463,7 +464,13 @@ flutter run
 
 ```text
 บันทึกรูปผลลัพธ์ที่นี่
+
 ```
+(ก) หน้า Home ที่แสดงรายการสินค้าจริงจาก API และ
+<img width="1366" height="731" alt="image" src="https://github.com/user-attachments/assets/88feb8a7-577f-4f37-aa08-3a464bcd1a30" />
+(ข) หน้า Checkout ที่มีสินค้าที่เพิ่มไว้ เป็นหลักฐานว่าโปรเจกต์ตั้งต้นถูกต้องสมบูรณ์ก่อนเริ่มทำเนื้อหา Gemini API ต่อ
+<img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/82aceddc-acc4-4ba5-bac8-be039855196e" />
+<img width="1366" height="641" alt="image" src="https://github.com/user-attachments/assets/1f7659d6-0220-4c68-b648-263d25eee429" />
 
 > ⚠️ ถ้าหน้าจอ Home แสดง Error เช่น "ไม่สามารถโหลดรายการสินค้าได้ (สถานะ 523)" ไม่ใช่ปัญหาจากไฟล์ที่คัดลอกมา แต่เป็น Fake Store API (fakestoreapi.com) ล่มชั่วคราว (Error ของ Cloudflare ที่แปลว่าเซิร์ฟเวอร์ต้นทางเข้าไม่ถึง) ให้รอแล้วลองใหม่ หรือแจ้งอาจารย์/TA เพื่อขอไฟล์ `ItemRepositoryMock` สำรองไว้ทดสอบโดยไม่ง้อเครือข่าย
 
@@ -497,6 +504,8 @@ flutter run
 ```text
 บันทึกรูปผลลัพธ์ที่นี่
 ```
+<img width="799" height="201" alt="image" src="https://github.com/user-attachments/assets/17f3ca6c-240a-4c12-b979-ed3b54d92e3c" />
+
 
 ### ขั้นตอนที่ 1.2: ทดลองเปิดใช้ Structured Output ใน AI Studio
 
@@ -507,6 +516,7 @@ flutter run
 ```text
 บันทึกผลลัพธ์ที่นี่
 ```
+<img width="745" height="568" alt="image" src="https://github.com/user-attachments/assets/1438ac4c-b326-4023-a03a-49c8c5e859bc" />
 
 ---
 
@@ -534,6 +544,7 @@ flutter run
 ```text
 บันทึกผลลัพธ์ที่นี่
 ```
+<img width="1366" height="647" alt="image" src="https://github.com/user-attachments/assets/f4f6cdff-3b01-4ba6-bc06-776acc23fc1a" />
 
 ---
 

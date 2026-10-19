@@ -466,10 +466,12 @@ flutter run
 
 ```
 (ก) หน้า Home ที่แสดงรายการสินค้าจริงจาก API และ
-<img width="1366" height="731" alt="image" src="https://github.com/user-attachments/assets/88feb8a7-577f-4f37-aa08-3a464bcd1a30" />
+<img width="964" height="2149" alt="image" src="https://github.com/user-attachments/assets/d7f7a667-dd36-4831-8116-9301b52d8172" />
+
 (ข) หน้า Checkout ที่มีสินค้าที่เพิ่มไว้ เป็นหลักฐานว่าโปรเจกต์ตั้งต้นถูกต้องสมบูรณ์ก่อนเริ่มทำเนื้อหา Gemini API ต่อ
-<img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/82aceddc-acc4-4ba5-bac8-be039855196e" />
-<img width="1366" height="641" alt="image" src="https://github.com/user-attachments/assets/1f7659d6-0220-4c68-b648-263d25eee429" />
+<img width="964" height="2149" alt="image" src="https://github.com/user-attachments/assets/492d55fc-041b-4e26-8b0f-fd3074c58273" />
+<img width="964" height="2149" alt="image" src="https://github.com/user-attachments/assets/73a49b4b-3c7e-4cc3-aaf5-ba102dc869eb" />
+
 
 > ⚠️ ถ้าหน้าจอ Home แสดง Error เช่น "ไม่สามารถโหลดรายการสินค้าได้ (สถานะ 523)" ไม่ใช่ปัญหาจากไฟล์ที่คัดลอกมา แต่เป็น Fake Store API (fakestoreapi.com) ล่มชั่วคราว (Error ของ Cloudflare ที่แปลว่าเซิร์ฟเวอร์ต้นทางเข้าไม่ถึง) ให้รอแล้วลองใหม่ หรือแจ้งอาจารย์/TA เพื่อขอไฟล์ `ItemRepositoryMock` สำรองไว้ทดสอบโดยไม่ง้อเครือข่าย
 
@@ -543,7 +545,7 @@ flutter run
 ```text
 บันทึกผลลัพธ์ที่นี่
 ```
-<img width="1366" height="647" alt="image" src="https://github.com/user-attachments/assets/f4f6cdff-3b01-4ba6-bc06-776acc23fc1a" />
+<img width="964" height="2149" alt="image" src="https://github.com/user-attachments/assets/0e1d49a9-5eb5-456a-b66a-5a46b0c1d592" />
 
 ---
 

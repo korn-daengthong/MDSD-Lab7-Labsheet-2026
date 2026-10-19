@@ -448,7 +448,6 @@ flutter test
 ควรขึ้นว่า **All tests passed!**
 
 จากนั้นเปิด Android Emulator หรือ iOS Simulator ให้พร้อม (ตามที่ตั้งค่าไว้ตั้งแต่ใบงานที่ 1) แล้วรัน
-<img width="835" height="265" alt="image" src="https://github.com/user-attachments/assets/1f99837d-d579-4a6b-b355-6bbbec2340ba" />
 
 ```bash
 flutter run

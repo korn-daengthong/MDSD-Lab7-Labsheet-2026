@@ -912,6 +912,10 @@ class MyApp extends StatelessWidget {
 ```text
 บันทึกผลลัพธ์ที่นี่
 ```
+<img width="964" height="2149" alt="image" src="https://github.com/user-attachments/assets/15830de2-9a0b-42db-9616-68a91b6ae002" />
+<img width="359" height="800" alt="image" src="https://github.com/user-attachments/assets/a196a3ec-6652-4b3a-8985-04953372453e" />
+<img width="964" height="2149" alt="image" src="https://github.com/user-attachments/assets/419188a0-d70a-479c-a14e-f959241c995c" />
+
 
 ---
 
@@ -960,6 +964,10 @@ class ListingDraft {
 ```text
 บันทึกผลลัพธ์ที่นี่
 ```
+<img width="964" height="2149" alt="image" src="https://github.com/user-attachments/assets/971ab1ca-84ea-4e4d-be89-0e8c954c6eab" />
+<img width="964" height="2149" alt="image" src="https://github.com/user-attachments/assets/8265d967-5180-4cc7-98cb-db520e03a5cd" />
+<img width="964" height="2149" alt="image" src="https://github.com/user-attachments/assets/adfd84e0-b30a-4ed5-9f72-252cf5185528" />
+
 ---
 
 ## ส่วนที่ 5: ออกแบบหน้าจอตรวจทานและแก้ไขก่อนยืนยัน (Human-in-the-loop)

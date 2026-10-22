@@ -966,7 +966,7 @@ class ListingDraft {
 ```
 <img width="964" height="2149" alt="image" src="https://github.com/user-attachments/assets/971ab1ca-84ea-4e4d-be89-0e8c954c6eab" />
 <img width="964" height="2149" alt="image" src="https://github.com/user-attachments/assets/8265d967-5180-4cc7-98cb-db520e03a5cd" />
-<img width="964" height="2149" alt="image" src="https://github.com/user-attachments/assets/adfd84e0-b30a-4ed5-9f72-252cf5185528" />
+<img width="964" height="2149" alt="image" src="https://github.com/user-attachments/assets/10b16d84-c8cc-4c32-88fd-f9fe99838a01" />
 
 ---
 
